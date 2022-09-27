@@ -9,5 +9,5 @@ Code that has been used for publications
 - DMS_clims: 
   Code to regrid to N96 and apply new land sea mask to the Rev3 DMS climatology 
   
-- PICCASO: 
+- PICCAASO: 
   Code to read, re-grid and plot the CMIP6 data presented in Mallet el al. 2022 'Untangling the influence of Antarctic and Southern Ocean life on clouds', inprep 
