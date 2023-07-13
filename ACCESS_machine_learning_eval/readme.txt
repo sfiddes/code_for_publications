@@ -1,5 +1,5 @@
-This is the code to perform the analysis in Fiddes et al. (2022) 'Insights into the cloud-radiative bias of the Southern Ocean using
-machine learning and feature importance metrics' in preparaiton for publication 
+This is the code to perform the analysis in Fiddes et al. (2023) 'A machine learning approach for evaluating Southern Ocean
+cloud-radiative biases over the Southern Ocean in a global atmosphere model' in preparaiton for publication 
 
 1. pre-process.ipynb: organises the data needed for analysis 
 2. run_XGBoost+SHAP_control.ipynb: run the XGBoost model and SHAP analysis for the control run 
